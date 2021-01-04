@@ -1,4 +1,4 @@
-> 少年莫言苦，夢裡捕蝴蝶。追跡湖畔邊，鏡影見少年。
+> In Solitude, Where We Are Least Alone.
 
 <img align="right" alt="Hackroid's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=hackroid&show_icons=true">
 
