@@ -4,7 +4,7 @@
 
 Hackroidです。
 
-- :hammer_and_pick: PyCharm/VSCode/Vim
+- :hammer_and_pick: Go/Python
 - 💬 Social network elsewhere: hackro1d
 - 😄 Pronouns: he/him
 
