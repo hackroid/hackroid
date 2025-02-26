@@ -4,9 +4,7 @@
 
 This is Hackroid.
 
-- :hammer_and_pick: Go/Python
-- 💬 Social network elsewhere: hackro1d
-- 😄 Pronouns: he/him
+- :hammer_and_pick: Python/Kotlin/Go
 
 <img align="left" alt="Hackroid's github stats top-langs" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackroid&layout=compact&hide=jupyter%20notebook,html&hide_title=true&langs_count=7&exclude_repo=EMB-RUSSIA">
 
