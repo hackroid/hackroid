@@ -2,7 +2,7 @@
 
 <img align="right" alt="Hackroid's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=hackroid&show_icons=true">
 
-Hackroidです。
+This is Hackroid.
 
 - :hammer_and_pick: Go/Python
 - 💬 Social network elsewhere: hackro1d
